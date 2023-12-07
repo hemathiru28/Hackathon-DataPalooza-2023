@@ -1,5 +1,4 @@
-# PortfolioProjects #Hackathon : DataPalooza - Connecting Insights with Twilio Segment and Databricks powered by AWS
-Hackathon : DataPalooza - Connecting Insights with Twilio Segment and Databricks powered by AWS
+#Hackathon : DataPalooza - Connecting Insights with Twilio Segment and Databricks powered by AWS
 
 URL: https://devpost.com/software/facets-dating-profile-feedback?ref_content=user-portfolio&ref_feature=in_progress
 
