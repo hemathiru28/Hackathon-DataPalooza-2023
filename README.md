@@ -2,8 +2,8 @@
 
 **URL:** https://devpost.com/software/facets-dating-profile-feedback?ref_content=user-portfolio&ref_feature=in_progress
 
-**Project:** Integrating Facets, a wellness app that supports users during their dating journey, with 
-We tracked all page views and events using Twilio Segment.We used Twilio Segment Engage Journey feature to be able to trigger email notifications that let the user know they got new feedback. We also leveraged databricks with AWS to be able to easily test our pipeline with event data. We used the reverse ETL feature to get 1100 records of synthetic data pushed through a google sheet that was synced to mix panel. Mix panel was used for data visualization. For our mailing service we used mailchimp. 
+**Project:** Integrating Facets, a wellness app that supports users during their dating journey, with Twilio Segment and Databricks and AWS.
+We tracked all page views and events of the app using Twilio Segment. We used Twilio Segment Engage Journey feature to be able to trigger email notifications that let the user know they got new feedback. We also leveraged databricks with AWS to be able to easily test our pipeline with event data. We used the reverse ETL feature to get 1100 records of synthetic data pushed through a google sheet that was synced to mix panel. Mix panel was used for data visualization. For our mailing service we used mailchimp. 
 
 **My contribution:**
 My primary responsibility involved setting up Databricks on AWS to generate synthetic data for reverse ETL. Leveraging Databricks, I developed a Python script using PySpark to generate a substantial volume of synthetic data that closely mirrored the events typically generated in the mobile app environment.
